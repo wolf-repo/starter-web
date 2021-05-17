@@ -15,3 +15,5 @@ As stated above, the main purpose is to provide simple examples for git training
 This is a simple website project, deployment can be on any web server or even local file system
 
 ## How To Contribute
+
+line to rebase example.
